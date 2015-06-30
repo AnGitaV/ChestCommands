@@ -4,12 +4,12 @@ public class Permissions {
 	
 	public static final String
 	
-		UPDATE_NOTIFICATIONS = 		"chestcommands.update",
-		SEE_ERRORS = 				"chestcommands.errors",
-		SIGN_CREATE = 		 		"chestcommands.sign",
-		BYPASS_ECONOMY = 			"chestcommands.economy.bypass",
+		UPDATE_NOTIFICATIONS = 		"GitaaaNotifier.update",
+		SEE_ERRORS = 				"BNCGUI.errors",
+		SIGN_CREATE = 		 		"BNCGUI.sign",
+		BYPASS_ECONOMY = 			"BNCGUI.economy.bypass",
 		
-		COMMAND_BASE = 				"chestcommands.command.",
-		OPEN_MENU_BASE = 			"chestcommands.open.";
+		COMMAND_BASE = 				"BNCGUI.command.",
+		OPEN_MENU_BASE = 			"BNCGUI.open.";
 	
 }
