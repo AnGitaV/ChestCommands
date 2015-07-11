@@ -4,12 +4,12 @@ public class Permissions {
 	
 	public static final String
 	
-		UPDATE_NOTIFICATIONS = 		"GitaaaNotifier.update",
-		SEE_ERRORS = 				"BNCGUI.errors",
-		SIGN_CREATE = 		 		"BNCGUI.sign",
-		BYPASS_ECONOMY = 			"BNCGUI.economy.bypass",
+		UPDATE_NOTIFICATIONS = 		"GitaNotifier.update",
+		SEE_ERRORS = 				"GitaMod.errors",
+		SIGN_CREATE = 		 		"GitaMod.sign",
+		BYPASS_ECONOMY = 			"GitaMod.economy.bypass",
 		
-		COMMAND_BASE = 				"BNCGUI.command.",
-		OPEN_MENU_BASE = 			"BNCGUI.open.";
+		COMMAND_BASE = 				"GitaMod.command.",
+		OPEN_MENU_BASE = 			"GitaMod.open.";
 	
 }
